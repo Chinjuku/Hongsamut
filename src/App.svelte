@@ -3,6 +3,7 @@
 </script>
 
 <main>
+	<h1>KUY database</h1>
 	<h2>how</h2>
 	<h1>how are you</h1>
 	<h1>Hello {name}!</h1>
